@@ -25,7 +25,7 @@ var config = {
         turn_on: "Start",
         play: "Music",
         bannar_coming: "Biu",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "Click",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
