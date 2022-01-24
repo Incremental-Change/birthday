@@ -5,6 +5,7 @@ var config = {
     texts: [
         "祝你生日快乐",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Happy birthday to you",  // 同上...
+       
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -22,7 +23,7 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "Start",
-        play: "Click",
+        play: "Music",
         bannar_coming: "Biu",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
